@@ -1,6 +1,0 @@
-E:\Publish\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
-E:\Publish\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
-E:\Publish\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
-E:\Publish\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
-E:\Publish\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
-E:\Publish\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
